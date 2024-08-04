@@ -1,0 +1,37 @@
+body{
+	margin: 0;
+}
+
+.sectoin-content-aera{
+	width: 100%;
+	height: 600px;
+	background: url('wollcome.jpg') no-repeat 0 0 / cover;
+
+}
+
+.sectoin-content-aera .section-area{
+	width: 30%;
+	border: 2px solid white;
+	float: left;
+	margin: 20px;
+	box-sizing: border-box;
+	background: url(rown.jpg) no-repeat 0 0 / 412px auto;
+
+}
+
+.sectoin-content-aera .section-area .section1{
+	padding: 10px;
+	
+
+}
+
+.sectoin-content-aera .section1 .imgse{
+	width: 120px;
+	float: left;
+	margin-right: 10px;
+
+}
+p{
+	text-align: justify;
+}
+
